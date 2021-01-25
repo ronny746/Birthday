@@ -339,6 +339,7 @@ six .e {
   }
 
   .nine p {
+    color: red;
     font-size: 1.5rem;
     font-weight: lighter;
   }
